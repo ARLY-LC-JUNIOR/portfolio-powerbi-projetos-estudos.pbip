@@ -1,6 +1,6 @@
-# 📊 Explorando Dados com Power BI - Portfolio Projetos & Estudos 🎓
+## 📊 Explorando Dados com Power BI - Portfolio Projetos & Estudos 🎓
 
-**Power 🚀**  
+## **Power 🚀**  
 Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o Power BI, uma ferramenta de análise e visualização de dados. Aqui você encontrará dashboards, relatórios e análises que demonstram habilidades em transformação de dados, criação de visualizações interativas e insights estratégicos. Bem-vindo ao meu portfólio de projetos e estudos em Power BI! Serão criados exemplos práticos de dashboards, relatórios e análises que demonstram minhas habilidades em transformação de dados, visualização e insights estratégicos.
 
 
@@ -27,11 +27,11 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 - **Descrição**: Dashboard para acompanhar métricas de campanhas, como CTR, conversões e ROI.
 - **Técnicas**: Gráficos de funnel, mapas de calor.
 
-#
+
 
 ## **Outros Projetos (Aguarde)** 🚧
 
-| Projeto                                      | Emojis        |
+| Projetos - coming soon ⏳                     |     Breve    |
 |----------------------------------------------|---------------|
 | Análise de Logística e Supply Chain          | 🚚 📦         |
 | Análise de Satisfação do Cliente (NPS)       | 😊 📋         |
@@ -52,17 +52,17 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 - **Power Query**: Transformações de dados avançadas.
 - **Integração com Python/R**: Uso de scripts para análises personalizadas.
 
-#
+
 
 ## **Como Utilizar** 🛠️
 
 1. **Arquivos `.pbix` ou `.PBIP` no Power BI Desktop**:
-   - Abra os arquivos no Power BI Desktop para explorar os dashboards e relatórios.
+   - Visualizar os arquivos no Power BI Desktop para explorar os dashboards e relatórios.
 
 2. **Explore os dashboards e relatórios**:
-   - Veja os detalhes de cada projeto e como as análises foram construídas.
+   - Acessar os detalhes de cada projeto e como foram construídos.
 
-#
+
 
 ## **Estudos e Como Utilizar** 🧠
 
@@ -73,4 +73,4 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 #
 
 **Arquivos `.pbix` ou `.PBIP` no Power BI Desktop**.  
-Explore os dashboards e relatórios para ver os detalhes de cada projeto.
+Explorar dashboards e relatórios views para ver os detalhes de cada projeto.
