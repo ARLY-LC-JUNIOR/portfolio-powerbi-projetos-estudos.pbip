@@ -3,7 +3,7 @@
 **Power 🚀**  
 Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o Power BI, uma ferramenta de análise e visualização de dados. Aqui você encontrará dashboards, relatórios e análises que demonstram habilidades em transformação de dados, criação de visualizações interativas e insights estratégicos. Bem-vindo ao meu portfólio de projetos e estudos em Power BI! Serão criados exemplos práticos de dashboards, relatórios e análises que demonstram minhas habilidades em transformação de dados, visualização e insights estratégicos.
 
----
+
 
 ## **Projetos a serem explorados ✨**
 
@@ -27,7 +27,7 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 - **Descrição**: Dashboard para acompanhar métricas de campanhas, como CTR, conversões e ROI.
 - **Técnicas**: Gráficos de funnel, mapas de calor.
 
----
+
 
 ## **Outros Projetos (Aguarde)** 🚧
 
@@ -44,7 +44,7 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 | Análise de Previsão (Forecasting)            | 🔮 📉         |
 | Análise de Dados de Sensores (IoT)           | 📡 🌡️         |
 
----
+#
 
 ## **Estudos** 📚
 
@@ -52,7 +52,7 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 - **Power Query**: Transformações de dados avançadas.
 - **Integração com Python/R**: Uso de scripts para análises personalizadas.
 
----
+#
 
 ## **Como Utilizar** 🛠️
 
@@ -62,7 +62,7 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 2. **Explore os dashboards e relatórios**:
    - Veja os detalhes de cada projeto e como as análises foram construídas.
 
----
+#
 
 ## **Estudos e Como Utilizar** 🧠
 
@@ -70,7 +70,7 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 - **Power Query**: Transformações de dados avançadas.
 - **Explorar dashboards e relatórios**: Veja detalhes dos projetos em repositórios futuros.
 
----
+#
 
 **Arquivos `.pbix` ou `.PBIP` no Power BI Desktop**.  
 Explore os dashboards e relatórios para ver os detalhes de cada projeto.
