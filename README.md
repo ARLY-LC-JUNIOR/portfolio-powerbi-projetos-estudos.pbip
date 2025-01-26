@@ -1,6 +1,6 @@
 ## 📊 Explorando Dados com Power BI - Portfolio Projetos & Estudos 🎓
 
-## **Power 🚀**  
+## **Power 🚀🚀**
 Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o Power BI, uma ferramenta de análise e visualização de dados. Aqui você encontrará dashboards, relatórios e análises que demonstram habilidades em transformação de dados, criação de visualizações interativas e insights estratégicos. Bem-vindo ao meu portfólio de projetos e estudos em Power BI! Serão criados exemplos práticos de dashboards, relatórios e análises que demonstram minhas habilidades em transformação de dados, visualização e insights estratégicos.
 
 
