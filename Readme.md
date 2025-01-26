@@ -27,7 +27,7 @@ Este repositório será dedicado a projetos e estudos desenvolvidos utilizando o
 - **Descrição**: Dashboard para acompanhar métricas de campanhas, como CTR, conversões e ROI.
 - **Técnicas**: Gráficos de funnel, mapas de calor.
 
-
+#
 
 ## **Outros Projetos (Aguarde)** 🚧
 
